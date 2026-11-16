@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ReaOverflow.Cli/ReaOverflow.Cli.csproj" />
+    <Project Path="src/ReaOverflow.Core/ReaOverflow.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ReaOverflow.Tests/ReaOverflow.Tests.csproj" />
+  </Folder>
+</Solution>

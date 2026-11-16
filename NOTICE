@@ -1,0 +1,17 @@
+rea-representation-bomb
+Copyright 2026 SECBLOK Pty Ltd
+
+This product is developed and maintained by SECBLOK Pty Ltd.
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file for terms.
+
+---
+
+Scope note (informational, not a modification of the License):
+
+This repository contains the open, byte-identical "representation bomb" protection
+(the technique described in the accompanying research paper). The commercial
+"Tier-C" protection variant — which abandons the byte-identical/runtime-neutral
+guarantee to resist trace-based and constant-folding strippers — is a SEPARATE,
+proprietary work of SECBLOK Pty Ltd and is NOT included in or licensed under this
+repository. For commercial licensing enquiries, contact contact@secblok.io.
